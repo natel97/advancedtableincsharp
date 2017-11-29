@@ -1,3 +1,5 @@
+//An extra file that was in the folder for playing with C#
+
 Console.WriteLine("Type in a string");
 string input;
 input = Console.ReadLine();
